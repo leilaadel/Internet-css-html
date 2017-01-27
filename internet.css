@@ -1,0 +1,110 @@
+{
+margin: 0px;
+padding: 0px;
+}
+.header{
+  display: block;
+  font-family: sans-serif;
+  margin-bottom: -20px;
+  color: dimgray;
+  margin-top: -10px;
+}
+.header h1{
+  display: inline-block;
+  font-weight: lighter:
+  margin: 0;
+}
+.banner{
+  background: linear-gradient(rgb(64, 128, 191), rgb(83, 140, 198), rgb(64, 128, 191));
+  color: white;
+  font-family: sans-serif;
+  height: 30px;
+  padding: 10px;
+}
+h2{
+  font-weight: lighter;
+  margin: 0 0 40px 0;
+}
+.wrapper{
+  margin-top: -22px;
+  background: linear-gradient(to bottom, #cccccc 0%,#ffffff 39%,#ffffff 66%);
+}
+.sidebar{
+  width: 200px;
+}
+span{
+  color: red;
+}
+h5{
+  line-height: 20px;
+  margin: 5px;
+  font-family: sans-serif;
+  margin-top: 20px;
+  padding-top: 15px;
+}
+h6{
+  line-height: 10px;
+  margin: 2px;
+  font-family: sans-serif;
+}
+button{
+  display: block;
+  font-family: sans-serif;
+  height: 20px;
+  width: 150px;
+  margin: 5px;
+  border-radius: 5px;
+  color: white;
+}
+hr{
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.b2{
+  background-color: blue;
+}
+.b3{
+  background-color: orange;
+}
+/*.ad{
+  display: absolute;
+}
+.ninja{
+  margin-left: -100px;
+  display: absolute;
+}
+*/
+.fishes {
+  position: relative; top: 100px; left: 40px;
+}
+.fish {
+  position: absolute; top: 0px; left: 0px;
+}
+h3{
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+}*/
+.h31{
+  position: absolute; right: 25px;
+}
+.b1{
+  position: absolute; top: 200px;
+  color: white;
+  background: skyblue;
+}*
+.filler{
+  width: 157px;
+  height: 250px;
+}
+.main{
+  position: absolute; left: 200px; top: 180px;
+  width: 745px;
+  display: inline-block;
+  text-align: left;
+}
+.home{
+  background-color: red;
+  display: inline-block;
+  color: blue;
+}
