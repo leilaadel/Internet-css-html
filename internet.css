@@ -95,11 +95,11 @@ h3{
 }*
 .filler{
   width: 157px;
-  height: 250px;
+  height: 300px;
+  background-color: blue;
 }
 .main{
-  position: absolute; left: 200px; top: 180px;
-  width: 745px;
+  width: 7px;
   display: inline-block;
   text-align: left;
 }
